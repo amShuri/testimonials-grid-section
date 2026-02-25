@@ -26,15 +26,15 @@ Users should be able to:
 
 #### --- Small Screens ---
 
-![](./design/my-solution-small.jpg)
+![](./design/my-solution-small.png)
 
 #### --- Medium Screens ---
 
-![](./design/my-solution-medium.jpg)
+![](./design/my-solution-medium.png)
 
 #### --- Large Screens ---
 
-![](./design/my-solution-large.jpg)
+![](./design/my-solution-large.png)
 
 ### Links
 
