@@ -5,6 +5,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -49,6 +50,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+## What I learned
+
+I learned that media queries use the browser's default font size (usually 16px), not whatever you set in your CSS. [Source](https://drafts.csswg.org/mediaqueries/#units)
 
 ## Author
 
